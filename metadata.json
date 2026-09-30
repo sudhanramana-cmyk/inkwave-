@@ -1,0 +1,6 @@
+{
+  "name": "INKWAVE",
+  "description": "Ideas move. Stories stay. A modern interactive editorial blogging and threaded discussion platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
